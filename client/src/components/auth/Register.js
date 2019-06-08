@@ -69,7 +69,7 @@ class Register extends Component {
                   error={errors.name}
                 />
                 <TextFieldGroup
-                  placeholder="Eamil"
+                  placeholder="Email"
                   name="email"
                   type="email"
                   value={this.state.email}
