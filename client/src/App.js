@@ -10,7 +10,7 @@ import store from "./store";
 
 import PrivateRoute from "./components/common/PrivateRoute";
 
-import Navbar from "devconnector/client/src/components/layout/Navbar";
+import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 import Landing from "./components/layout/Landing";
 import Register from "./components/auth/Register";
